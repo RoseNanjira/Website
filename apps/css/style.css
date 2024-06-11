@@ -1,0 +1,30 @@
+.text1:hover{
+    color: blue;
+    cursor: pointer;
+    
+}
+
+.rectangle{
+    background-color: #0000ff;
+    height: 3px;
+    width: 60px;
+    position: relative;
+    color: #000;
+}
+
+.rectangle2{
+    background-color: #f8f8fd;
+    height: 3px;
+    width: 400px;
+    position: relative;
+    color: #000;
+}
+
+.button{
+    background-color: #b8773f;
+    height: 60px;
+    width: 250px;
+    position: relative;
+    color: white;
+    border-radius: 50px;
+}
